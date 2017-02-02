@@ -4,17 +4,17 @@ Free and Open Source Brainwave Entrainment application.
 This PC Version also comes with an Editor to make your own presets.
  
 ## Download
-[Installer for Windows](http://downloads.adolfintel.com/geth.php?r=hbx-win)
+[Installer for Windows](http://downloads.fdossena.com/geth.php?r=hbx-win)
 
-[Multiplatform](http://downloads.adolfintel.com/geth.php?r=hbx-pcbin) (Requires [Java](http://java.com))
+[Multiplatform](http://downloads.fdossena.com/geth.php?r=hbx-pcbin) (Requires [Java](http://java.com))
  
 ## Compatibility
 Windows XP and newer, or Multiplatofrm (Java SE 7)
 
 ## Screenshots
-![Screenshot](http://adolfintel.com/hbx/pc1.png)
-![Screenshot](http://adolfintel.com/hbx/pc2.png)
-![Screenshot](http://adolfintel.com/hbx/website1.png)
+![Screenshot](http://fdossena.com/hbx/pc1.png)
+![Screenshot](http://fdossena.com/hbx/pc2.png)
+![Screenshot](http://fdossena.com/hbx/website1.png)
 
 ## Loading the project
 Import the project into Netbeans.

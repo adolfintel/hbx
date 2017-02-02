@@ -3,16 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/AboutDialog.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/AboutDialog_it_IT.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/EditorPanel.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/EditorPanel_it_IT.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/Main.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/Main_it_IT.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/PlayerPanel.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/PlayerPanel_it_IT.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/RenderWindow.properties</file>
-            <file>file:/C:/Users/Federico/Documents/NetBeansProjects/BinauralPlayer/src/com/dosse/binaural/player/RenderWindow_it_IT.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/Main.java</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/EditorPanel.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/PlayerPanel_it_IT.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/AboutDialog_it_IT.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/RenderWindow_it_IT.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/PlayerPanel.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/RenderWindow.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/AboutDialog.java</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/Main.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/EditorPanel_it_IT.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/AboutDialog.properties</file>
+            <file>file:/C:/_PROJECTS/HBX%20Binaural%20Player/PC/BinauralPlayer/src/com/dosse/binaural/player/Main_it_IT.properties</file>
         </group>
     </open-files>
 </project-private>
